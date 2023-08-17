@@ -1,4 +1,4 @@
-# tfm-uclm
+# Introduccion al TFM - Cristian Leguisamon
 TFM-UCLM
 El trabajo parte de una serie de datos de FitBit y de un dataset de datos nutricionales de alimentos.
 Mediante estimaciones, se calcula el requerimiento nutricional de cada persona.
