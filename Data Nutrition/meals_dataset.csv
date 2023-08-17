@@ -1,0 +1,48 @@
+name,Fiber(g),Vitamin C(mg),Fats(cal),Proteins(cal),Calories(cal),Sugar(g),Calcium(mg),Carbohydrates(cal),category
+Cola,0.0,0.0,0,0,140,39.0,0,39.0,sugary_beverages
+Fruit Punch,0.1,120.0,0,0,120,30.0,15,30.0,sugary_beverages
+Lemonade,0.0,36.6,0,0,99,24.8,7,25.0,sugary_beverages
+Energy Drink,0.0,0.0,0,0,110,27.0,2,27.0,sugary_beverages
+Cream Soda,0.0,0.0,0,0,189,49.5,2,49.5,sugary_beverages
+Green Tea,0.0,0.0,0,0,0,0.0,1,0.0,infusions
+Chamomile,0.0,0.0,0,0,0,0.0,2,0.0,infusions
+Peppermint,0.0,0.0,0,0,0,0.0,1,0.0,infusions
+Ginger,0.0,0.0,0,0,0,0.0,2,0.0,infusions
+Hibiscus,0.0,0.1,0,0,0,0.0,2,0.1,infusions
+Beer,0.0,0.0,154,0,154,0.6,5,12.0,alcoholic_beverages
+Wine,0.0,0.0,123,0,123,0.6,11,4.0,alcoholic_beverages
+Vodka,0.0,0.0,231,0,231,0.0,0,0.0,alcoholic_beverages
+Rum,0.0,0.0,231,0,231,0.0,1,0.0,alcoholic_beverages
+Gin,0.0,0.0,263,0,263,0.0,1,0.0,alcoholic_beverages
+Salmon,0.0,0.0,234,367,412,0.0,12,0.0,fish
+Tuna,0.0,0.0,144,389,480,0.0,9,0.0,fish
+Cod,0.0,0.0,119,333,290,0.0,6,0.0,fish
+Trout,0.0,0.0,165,350,480,0.0,20,0.0,fish
+Sardines,0.0,0.0,189,530,475,0.0,382,0.0,fish
+Lobster,0.0,0.2,102,234,143,0.0,60,0.0,seafood
+Mussels,0.0,12.0,15,224,172,0.0,67,0.0,seafood
+Octopus,0.0,6.0,56,308,164,0.0,56,0.0,seafood
+Shrimp,0.0,6.0,4,112,85,0.0,80,1.0,seafood
+Crab,0.0,5.0,3,88,83,0.0,54,0.0,seafood
+Squid,0.0,4.0,3,207,92,0.0,30,1.0,seafood
+Clams,0.0,36.0,1,113,48,0.0,82,1.0,seafood
+Oysters,0.0,5.0,4,193,68,0.0,149,1.0,seafood
+Pork Loin Chop,0.0,0.0,274,249,384,0.0,12,0.0,meat_cuts
+Lamb Leg,0.0,0.0,386,330,468,0.0,13,0.0,meat_cuts
+Turkey Thigh,0.0,0.0,150,245,291,0.0,24,0.0,meat_cuts
+Duck Breast,0.0,0.0,165,267,337,0.0,12,0.0,meat_cuts
+Veal Chop,0.0,0.0,249,260,347,0.0,18,0.0,meat_cuts
+Lamb Shoulder,0.0,0.0,431,284,535,0.0,17,0.0,meat_cuts
+Black Coffee,0.0,0.0,2,2,5,0.0,2,0.0,coffee
+Latte,0.0,0.0,74,120,190,9.3,345,144.0,coffee
+Mocha,0.0,0.0,68,100,203,25.9,208,144.0,coffee
+Iced Coffee,0.0,0.0,0,0,1,0.0,0,0.0,coffee
+Caramel Macchiato,0.0,0.0,144,134,233,34.0,178,136.0,coffee
+Chicken Egg,0.0,0.0,63,54,72,0.6,28,0.0,eggs
+Quail Egg,0.0,0.1,13,14,14,0.0,14,0.0,eggs
+Rice,0.4,0.0,130,110,150,0.0,0,35.0,cereals
+Wheat Flakes,12.2,0.0,9,45,360,0.0,18,75.0,cereals
+Cornflakes,2.7,23.9,13,9,365,8.4,1,86.0,cereals
+Oat Bran,15.4,0.0,6,88,246,0.8,54,84.0,cereals
+Barley,17.3,0.0,3,35,354,0.9,28,154.0,cereals
+Millet,8.5,0.0,4,36,378,0.9,8,147.0,cereals

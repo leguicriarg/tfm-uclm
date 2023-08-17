@@ -1,0 +1,42 @@
+{
+  "breakfast": {
+    "Calories": "0.25 * calories",
+    "Proteins": "0.25 * weight * age_factor * avg_activity / 4",
+    "Carbohydrates": "0.50 * weight * age_factor * avg_activity / 4",
+    "Fats": "0.25 * weight * age_factor * avg_activity / 9",
+    "Vitamin C": "40 * age_factor * avg_activity",
+    "Fiber": "25 * age_factor",
+    "Calcium": "250 + 250 * age_factor",
+    "Sugar": "25 * age_factor"
+  },
+  "lunch": {
+    "Calories": "0.35 * calories",
+    "Proteins": "0.30 * weight * age_factor * avg_activity / 4",
+    "Carbohydrates": "0.40 * weight * age_factor * avg_activity / 4",
+    "Fats": "0.30 * weight * age_factor * avg_activity / 9",
+    "Vitamin C": "30 * age_factor * avg_activity",
+    "Fiber": "25 * age_factor",
+    "Calcium": "250 + 250 * age_factor",
+    "Sugar": "25 * age_factor"
+  },
+  "snack": {
+    "Calories": "0.15 * calories",
+    "Proteins": "0.25 * weight * age_factor * avg_activity / 4",
+    "Carbohydrates": "0.50 * weight * age_factor * avg_activity / 4",
+    "Fats": "0.25 * weight * age_factor * avg_activity / 9",
+    "Vitamin C": "40 * age_factor * avg_activity",
+    "Fiber": "25 * age_factor",
+    "Calcium": "150 + 150 * age_factor",
+    "Sugar": "25 * age_factor"
+  },
+  "dinner": {
+    "Calories": "0.25 * calories",
+    "Proteins": "0.25 * weight * age_factor * avg_activity / 4",
+    "Carbohydrates": "0.50 * weight * age_factor * avg_activity / 4",
+    "Fats": "0.25 * weight * age_factor * avg_activity / 9",
+    "Vitamin C": "40 * age_factor * avg_activity",
+    "Fiber": "25 * age_factor",
+    "Calcium": "250 + 250 * age_factor",
+    "Sugar": "25 * age_factor"
+  }
+}

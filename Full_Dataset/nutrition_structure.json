@@ -1,0 +1,138 @@
+{
+  "breakfast": {
+    "Calories": {
+      "amount": "",
+      "unit": "cal"
+    },
+    "Proteins": {
+      "amount": "",
+      "unit": "cal"
+    },
+    "Carbohydrates": {
+      "amount": "",
+      "unit": "cal"
+    },
+    "Fats": {
+      "amount": "",
+      "unit": "cal"
+    },
+    "Fiber": {
+      "amount": 15,
+      "unit": "g"
+    },
+    "Sugar": {
+      "amount": 20,
+      "unit": "g"
+    },
+    "Calcium": {
+      "amount": 400,
+      "unit": "mg"
+    },
+    "Vitamin C": {
+      "amount": "",
+      "unit": "mg"
+    }
+  },
+  "lunch": {
+	"Calories": {
+      "amount": "",
+      "unit": "cal"
+    },
+    "Proteins": {
+      "amount": "",
+      "unit": "cal"
+    },
+    "Carbohydrates": {
+      "amount": "",
+      "unit": "cal"
+    },
+    "Fats": {
+      "amount": "",
+      "unit": "cal"
+    },
+    "Fiber": {
+      "amount": "",
+      "unit": "g"
+    },
+    "Sugar": {
+      "amount": 15,
+      "unit": "g"
+    },
+    "Calcium": {
+      "amount": 500,
+      "unit": "mg"
+    },
+    "Vitamin C": {
+      "amount": "",
+      "unit": "mg"
+    }
+  },
+  "snack": {
+        "Calories": {
+      "amount": "",
+      "unit": "cal"
+    },
+    "Proteins": {
+      "amount": "",
+      "unit": "cal"
+    },
+    "Carbohydrates": {
+      "amount": "",
+      "unit": "cal"
+    },
+    "Fats": {
+      "amount": "",
+      "unit": "cal"
+    },
+    "Fiber": {
+      "amount": 10,
+      "unit": "g"
+    },
+    "Sugar": {
+      "amount": 10,
+      "unit": "g"
+    },
+    "Calcium": {
+      "amount": 300,
+      "unit": "mg"
+    },
+    "Vitamin C": {
+      "amount": "",
+      "unit": "mg"
+    }
+  },
+  "dinner": {
+        "Calories": {
+      "amount": "",
+      "unit": "cal"
+    },
+    "Proteins": {
+      "amount": "",
+      "unit": "cal"
+    },
+    "Carbohydrates": {
+      "amount": "",
+      "unit": "cal"
+    },
+    "Fats": {
+      "amount": "",
+      "unit": "cal"
+    },
+    "Fiber": {
+      "amount": 15,
+      "unit": "g"
+    },
+    "Sugar": {
+      "amount": 10,
+      "unit": "g"
+    },
+    "Calcium": {
+      "amount": 350,
+      "unit": "mg"
+    },
+    "Vitamin C": {
+      "amount": "",
+      "unit": "mg"
+    }
+  }
+}
